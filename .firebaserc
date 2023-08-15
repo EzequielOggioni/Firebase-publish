@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "beltran-1ae8a"
+  },
+  "targets": {
+    "beltran-1ae8a": {
+      "hosting": {
+        "publicacion": [
+          "beltran-1ae8a"
+        ]
+      }
+    }
+  }
+}
